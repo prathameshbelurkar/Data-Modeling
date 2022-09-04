@@ -3,6 +3,9 @@
 ### Environment for Mini-Conda
 
 > Matplotlib
+
 > Pandas
+
 > Numpy
+
 > sklearn
