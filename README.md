@@ -1,11 +1,15 @@
-## Workflow to Data Modeling/scikit-learn/algorithms
+# Guide to Scikit Learn 🚀
 
-### Environment for Mini-Conda
+**Documentation (API-reference): https://scikit-learn.org/stable/modules/classes.html**
 
-> Matplotlib
+<img alt="roadmap" src="https://scikit-learn.org/stable/_static/ml_map.png" />
 
-> Pandas
+<hr/>
 
-> Numpy
+**_Environment for Mini-Conda_**
 
-> sklearn
+1. `Matplotlib`
+2. `Pandas`
+3. `Numpy`
+4. `seaborn`
+5. `sklearn`
